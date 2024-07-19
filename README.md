@@ -22,10 +22,10 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ## Team Members
 1. [Samuel K.T. Owusu-Ansah](https://github.com/sktowusuansah), Ph.D. Candidate, Colorado State University, Fort Collins, USA | Project/Tech Lead
-2. Akachukwu Onwuka, Ph.D. Candidate, University of Melbourne, Australia | Writing Lead
+2. [Akachukwu Onwuka](https://github.com/Akachukwuebuka), Department of Pharmacology and Toxicology, Faculty of Pharmaceutical Science, University of Nigeria, Nsukka | Writing Lead
 3. [Khadija Elamin](https://github.com/Khadijaelamin93), Affiliation | Pipeline Development
-4. [Jessica Arthur](https://github.com/Geska7), Research Assistant, West African Centre for Cell Biology of Infectious Pathogens (WACCBIP), Ghana | Analysis
-5. Paul Ajwang 
-6. [Isaya Odongo](https://github.com/OdongoIsaya), MSc. Candidate, ABC University, Kenya 
-7. Awe Olaitan, University of Ibadan, Oyo State, Nigeria & African Society for Bioinformatics and Computational Biology, South Africa
+4. [Jessica Arthur](https://github.com/Geska7), Genomics and Bioinformatics Laboratory, West African Center for Cell Biology of Infectious Pathogens, University of Ghana, Ghana | Analysis, Writing
+5. Paul Ajwang | | Analysis, Writing
+6. [Isaya Odongo](https://github.com/OdongoIsaya), MSc. Candidate, ABC University, Kenya | Analysis, Writing
+7. Awe Olaitan, University of Ibadan, Oyo State, Nigeria & African Society for Bioinformatics and Computational Biology, South Africa | Conceptualisation | Editing
 
