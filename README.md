@@ -1,4 +1,4 @@
-# Plant-pathogen Interactions between Xanthomonas oryzae and its host
+# Plant-pathogen interactions between _Xanthomonas oryzae_ and its host
 ![image](https://github.com/omicscodeathon/xanthomonasppi/blob/main/images/Interaction-model-between-pathogen-and-rice.png)
 
 Source: [Yang et. al, 2022](https://www.researchgate.net/figure/Interaction-model-between-pathogen-and-rice_fig2_359419059)
