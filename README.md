@@ -1,11 +1,8 @@
 ![DenD](https://img.shields.io/badge/Project-xanthomonasppi-lightblue) 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](xxxxxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-![GitHub Repo stars](https://img.shields.io/github/stars/omicscodeathon/xanthomonasppi)
-[![Github all releases](https://img.shields.io/github/downloads/omicscodeathon/xanthomonasppi/total.svg)](https://GitHub.com/omicscodeathon/xanthomonasppi/releases/)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/omicscodeathon/denguedrug.svg)](https://GitHub.com/omicscodeathon/xanthomonasppi/graphs/contributors/)
-[![Github tag](https://badgen.net/github/tag/omicscodeathon/xanthomonasppi)](https://github.com/omicscodeathon/xanthomonasppi/tags/)
 
 
 # Plant-pathogen interactions between _Xanthomonas oryzae_ and its host
