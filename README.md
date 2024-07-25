@@ -6,6 +6,13 @@
 
 
 # Plant-pathogen interactions between _Xanthomonas oryzae_ and its host
+## Table of contents
+1. [Background](#background)
+2. [Study aim](#aim-of-the-study)
+3. [Dataset](#dataset)
+4. [Methodology](#methodology)
+5. [Credits](#credits)
+
 ![image](https://github.com/omicscodeathon/xanthomonasppi/blob/main/images/Interaction-model-between-pathogen-and-rice.png)
 
 Source: [Yang et. al, 2022](https://www.researchgate.net/figure/Interaction-model-between-pathogen-and-rice_fig2_359419059)
@@ -22,7 +29,8 @@ This study aims to identify a core set of genes and miRNAs involved in rice's de
 - Analyze the networks to identify key regulatory elements and pathways crucial for Xoo defense.
 
 ## Dataset
-The data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95668)
+Time-series RNAseq data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95668)
+miRNA expression data used for the project is available [here]
 
 ## Methodology
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
@@ -50,7 +58,7 @@ Bash script
 ## Pipeline Summary
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
-## Team Members
+## Credits
 1. [Samuel K.T. Owusu-Ansah](https://github.com/sktowusuansah), Department of Soil and Crop Sciences, Colorado State University, Fort Collins, USA | Project/Tech Lead
 2. [Akachukwu Onwuka](https://github.com/Akachukwuebuka), Department of Pharmacology and Toxicology, Faculty of Pharmaceutical Science, University of Nigeria, Nsukka | Writing Lead
 3. [Khadija Elamin](https://github.com/Khadijaelamin93), MicrobialCulture Collection Unit (MCCU), Faculty of Science, University of Khartoum, Sudan | Pipeline Development
