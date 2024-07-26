@@ -61,7 +61,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ## Credits
 1. [Samuel K.T. Owusu-Ansah](https://github.com/sktowusuansah), Department of Soil and Crop Sciences, Colorado State University, Fort Collins, USA | Project/Tech Lead
 2. [Akachukwu Onwuka](https://github.com/Akachukwuebuka), Department of Pharmacology and Toxicology, Faculty of Pharmaceutical Science, University of Nigeria, Nsukka | Writing Lead
-3. [Khadija Elamin](https://github.com/Khadijaelamin93), MicrobialCulture Collection Unit (MCCU), Faculty of Science, University of Khartoum, Sudan | Pipeline Development
+3. [Khadija Elamin](https://github.com/Khadijaelamin93), Department of Botany, Faculty of Science, University of Khartoum, Sudan | Pipeline Development
 4. [Jessica Arthur](https://github.com/Geska7), Genomics and Bioinformatics Laboratory, West African Center for Cell Biology of Infectious Pathogens, University of Ghana, Ghana | Analysis, Writing
 5. [Paul Ajwang](https://github.com/Ojwang-Biot), MSc. Bioinformatics, Pwani University, Kenya | Analysis, Writing
 6. [Reginald Isaya Odongo](https://github.com/OdongoIsaya), MSc. Bioinformatics, Pwani University, Kenya | Analysis, Writing
