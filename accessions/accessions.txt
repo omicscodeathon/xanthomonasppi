@@ -6,3 +6,5 @@ GSE 141996: Rice leaf tissues
 SRA study: SRP237517
 GSE 141775: Rice leaf tissues
 SRA study: SRP235582
+GSE (missing): Rice leaf tissues
+SRA study: SRP213040
