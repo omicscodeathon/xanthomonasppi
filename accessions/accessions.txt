@@ -8,3 +8,5 @@ GSE 141775: Rice Leaves tissues responsive to Xoo
 SRA study: SRP235582
 GSE (missing): Rice Leaves tissues infected by Xoo
 SRA study: SRP213040
+GSE 95668: Rice Leaves tissues responsive to Xoo
+SRA study: 	SRP101342
