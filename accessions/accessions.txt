@@ -4,7 +4,7 @@ All data is available on the GEO database.
 RNA data:
 GSE 95668: Rice Leaves tissues responsive to Xoo
 SRA study: 	SRP101342
-All data is available on the GEO database.
+
 miRNA data:
 GSE 141996: Rice Leaves tissues responsive to Xoo
 SRA study: SRP237517
