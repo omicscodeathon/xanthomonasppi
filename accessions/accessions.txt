@@ -7,9 +7,10 @@ SRA study: 	SRP101342
 
 miRNA data:
 GSE 141996: Rice Leaves tissues responsive to Xoo
+2 SuperSeries:
+GSE 141995:
 SRA study: SRP237517
-SuperSeries
-GSE 141775: Rice Leaves tissues responsive to Xoo
+GSE 141775:
 SRA study: SRP235582
 
 GSE (missing): Rice Leaves tissues infected by Xoo
