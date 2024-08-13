@@ -46,6 +46,11 @@ Python 3.12
 
 ```
 Packages to install
+````````
+FastQc
+Fastp
+MultiQC
+
 ```{r}
 #Grenadine
 #Dummy text
