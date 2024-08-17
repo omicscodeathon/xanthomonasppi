@@ -5,10 +5,12 @@ Steps: [Convert the steps into workflow diagram (include tools for each step) an
 .Trimming of adaptor sequences (Trimmomatic)
 .Alignment of sequences to Rice reference genome (HISAT2)
 .miRNA mapping (miRDeep2)
-.
-.
-.
-.
-.
-.
-.
+.Normalization methods (quantile normalization miRNA-seq, and TMM RNA-seq) 
+.Identify DEGs (limma)
+2-Identify DEMs(miRDeep2)  
+.GRN inference (GRNBoost2)
+.miRNA-Target Prediction (miRanda)
+.Network Visualization (Cytoscape)
+ Functional Enrichment Analysis (DAVID)
+ Identification of Key Regulatory Elements (degree, betweenness, closeness centrality)
+.Validation & Functional annotation (miRanda, DAVID)
