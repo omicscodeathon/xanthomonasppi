@@ -1,6 +1,6 @@
-![DenD](https://img.shields.io/badge/Project-xanthomonasppi-lightblue) 
+![DenD](https://img.shields.io/badge/Project-xanthomonasppi-lightblue)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](xxxxxx)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/omicscodeathon/denguedrug.svg)](https://GitHub.com/omicscodeathon/xanthomonasppi/graphs/contributors/)
 
@@ -23,7 +23,7 @@ The issue of food security remains a major global challenge (Berry, 2020). Rice 
 The significance of this research includes grasping the interactions between X. oryzae and its rice host is crucial for improving rice production, securing food supplies, encouraging sustainable agricultural practices, promoting a healthier environment and biodiversity and advancing scientific research.
 
 ## Aim of the study
-This study aims to identify a core set of genes and miRNAs involved in rice's defense response to Xoo and to elucidate the regulatory networks governing these responses through analysis of the publicly available rice RNA-seq data sets associated with the infections of Xoo. Specifically, we: 
+This study aims to identify a core set of genes and miRNAs involved in rice's defense response to Xoo and to elucidate the regulatory networks governing these responses through analysis of the publicly available rice RNA-seq data sets associated with the infections of Xoo. Specifically, we:
 - Systematically identify previously reported genes and miRNAs associated with rice response to Xoo infection.
 - Computationally infer the regulatory relationships between these genes using time-series expression data.
 - Analyze the networks to identify key regulatory elements and pathways crucial for Xoo defense.
@@ -70,5 +70,4 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 4. [Jessica Arthur](https://github.com/Geska7), Genomics and Bioinformatics Laboratory, West African Center for Cell Biology of Infectious Pathogens, University of Ghana, Ghana | Implementation, Analysis & Writing
 5. [Paul Ajwang](https://github.com/Ojwang-Biot), MSc. Bioinformatics, Pwani University, Kenya | Analysis, Writing
 6. [Reginald Isaya Odongo](https://github.com/OdongoIsaya), MSc. Bioinformatics, Pwani University, Kenya | Analysis, Writing
-7. Awe Olaitan, University of Ibadan, Oyo State, Nigeria & African Society for Bioinformatics and Computational Biology, South Africa | Conceptualisation | Editing
-
+7. [Olaitan I. Awe](https://github.com/laitanawe), African Society for Bioinformatics and Computational Biology, South Africa | Conceptualisation | Editing
