@@ -34,6 +34,7 @@ Time-series RNAseq data used for the project is available [here](https://www.ncb
 ## Methodology
 **1. Data Preprocessing:**
 The raw sequencing data was initially subjected to quality control using the FastQC tool, followed by a comprehensive multi-sample quality report generated with MultiQC. To ensure high-quality reads, trimming was performed using Fastp, removing low-quality bases and adapter sequences. Normalization of the read counts was carried out using the Trimmed Mean of M-values (TMM) method to account for compositional differences between samples.
+
 **- Read Alignment and Gene Expression Quantification:**
 Post-trimming, the clean reads were aligned to the rice reference genome (GCF_034140825.1) using the HISAT2 aligner, which provides a high level of accuracy and efficiency for spliced alignments. The aligned reads were then used to quantify gene expression levels with HTSeq, generating count data for downstream differential expression analysis.
 
