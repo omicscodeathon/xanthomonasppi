@@ -40,8 +40,10 @@ Post-trimming, the clean reads were aligned to the rice reference genome (GCF_03
 **2. Differential Expression Analysis**
 **- miRNA Data Analysis:**
 Differentially expressed genes (DEGs) were identified using the limma statistical package, which is well-suited for the analysis of miRNA data due to its robustness in handling small datasets.
+
 **- RNA-Seq Analysis:**
 For RNA-seq data, the STAR aligner was employed to perform high-throughput read alignment, ensuring accurate mapping to the reference genome. Quantification of gene expression was then conducted, followed by the identification of DEGs using the DESeq2 package, which offers precise normalization and statistical testing for differential expression.
+
 **- miRNA Differential Expression:**
 To identify differentially expressed miRNAs (DEMs), the miRDeep2 suite was utilized. This tool is specifically designed for miRNA analysis, providing sensitive detection and quantification of miRNAs across samples.
 
