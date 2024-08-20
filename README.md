@@ -29,7 +29,7 @@ This study aims to identify a core set of genes and miRNAs involved in rice's de
 - Analyze the networks to identify key regulatory elements and pathways crucial for Xoo defense.
 
 ## Dataset
-Time-series RNAseq data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95668),  [here](https://www.ncbi.nlm.nih.gov/sra/SRX7203160[accn]) and [here](https://www.ncbi.nlm.nih.gov/sra/?term=SRP232925). miRNA expression data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141996) and [here](https://www.ncbi.nlm.nih.gov/sra/SRX6406229[accn])
+Time-series RNAseq data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95668),  [here](https://www.ncbi.nlm.nih.gov/sra/SRX7203160[accn]) and [here](https://www.ncbi.nlm.nih.gov/sra/?term=SRP232925). While miRNA expression data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141996) and [here](https://www.ncbi.nlm.nih.gov/sra/SRX6406229[accn]).
 
 ## Methodology
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
