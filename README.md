@@ -29,7 +29,7 @@ This study aims to identify a core set of genes and miRNAs involved in rice's de
 - Analyze the networks to identify key regulatory elements and pathways crucial for Xoo defense.
 
 ## Dataset
-Time-series RNAseq data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95668),  [here](https://www.ncbi.nlm.nih.gov/sra/SRX7203160[accn]), [here] ( [Project Website](https://example.com)_
+Time-series RNAseq data used for the project is available [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95668),  [here](https://www.ncbi.nlm.nih.gov/sra/SRX7203160[accn]), [here](https://www.ncbi.nlm.nih.gov/sra/?term=SRP232925)
 miRNA expression data used for the project is available [here]
 
 ## Methodology
