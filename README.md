@@ -33,41 +33,63 @@ Time-series RNAseq data used for the project is available [here](https://www.ncb
 
 ## Methodology
 **1. Data Preprocessing:**
+
 The raw sequencing data was initially subjected to quality control using the FastQC tool, followed by a comprehensive multi-sample quality report generated with MultiQC. To ensure high-quality reads, trimming was performed using Fastp, removing low-quality bases and adapter sequences. Normalization of the read counts was carried out using the Trimmed Mean of M-values (TMM) method to account for compositional differences between samples.
 
 **- Read Alignment and Gene Expression Quantification:**
+
 Post-trimming, the clean reads were aligned to the rice reference genome (GCF_034140825.1) using the HISAT2 aligner, which provides a high level of accuracy and efficiency for spliced alignments. The aligned reads were then used to quantify gene expression levels with HTSeq, generating count data for downstream differential expression analysis.
 
 **2. Differential Expression Analysis**
+
 **- miRNA Data Analysis:**
+
 Differentially expressed genes (DEGs) were identified using the limma statistical package, which is well-suited for the analysis of miRNA data due to its robustness in handling small datasets.
 
 **- RNA-Seq Analysis:**
+
 For RNA-seq data, the STAR aligner was employed to perform high-throughput read alignment, ensuring accurate mapping to the reference genome. Quantification of gene expression was then conducted, followed by the identification of DEGs using the DESeq2 package, which offers precise normalization and statistical testing for differential expression.
 
 **- miRNA Differential Expression:**
+
 To identify differentially expressed miRNAs (DEMs), the miRDeep2 suite was utilized. This tool is specifically designed for miRNA analysis, providing sensitive detection and quantification of miRNAs across samples.
 
 **3. Inference of Regulatory Relationships**
+
 **- Time-Series Analysis:**
+
 To capture dynamic expression patterns of genes and miRNAs over time, a comprehensive time-series analysis was performed using a combination of DESeq2, edgeR, maSigPro, and ImpulseDE2. These tools collectively provide robust statistical methods for identifying temporal changes in expression and detecting differentially expressed genes and miRNAs across time points.
+
 **- Gene Regulatory Network Construction:**
+
 Gene regulatory networks (GRNs) were constructed using GRNBoost2, a tool that leverages machine learning algorithms to infer regulatory interactions from expression data. This approach enabled the identification of key regulatory relationships among genes.
+
 **- miRNA-Target Interaction Prediction:**
+
 miRNA-target interactions were predicted using the miRanda algorithm, which is specifically designed to identify potential miRNA binding sites on target mRNAs. This tool facilitates the discovery of regulatory roles of miRNAs by predicting their target genes within the inferred GRNs.
 
 **4. Network Analysis and Key Element Identification**
+
 **- Network Visualization and Analysis:**
+
 The inferred gene regulatory networks were visualized and analyzed using Cytoscape, an advanced tool for the graphical representation and exploration of complex biological networks. This facilitated the interpretation of network topology and interactions.
+
 **- Functional Enrichment Analysis:**
+
 To elucidate the biological significance of differentially expressed genes (DEGs) and their predicted target genes, functional enrichment analysis was conducted using DAVID. This involved Gene Ontology (GO) and KEGG pathway analyses to identify enriched biological processes, molecular functions, and pathways, offering insights into the potential roles of these genes in the studied biological context.
+
 **- Identification of Key Regulatory Elements:**
+
 Key regulatory elements within the network, including hub genes and miRNAs, were identified by calculating centrality measures such as degree, betweenness, and closeness. These metrics helped to pinpoint the most influential nodes within the network, providing a deeper understanding of the regulatory architecture.
 
 **5. Validation and Functional Annotation**
+
 **- Computational Validation:**
+
 The computational predictions were validated using miRanda, a specialized tool for miRNA-target interaction analysis. This validation step ensured the accuracy and reliability of the identified miRNA-target pairs.
+
 **- Functional Annotation and Visualization:**
+
 To further explore the biological relevance of the validated findings, functional annotation was performed using DAVID. The tool’s visualization capabilities were employed to generate informative plots, such as GO term enrichment and KEGG pathway maps, facilitating a clearer understanding of the functional roles of the identified genes and miRNAs.
 
 
