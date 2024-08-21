@@ -2,7 +2,7 @@ Steps: [Convert the steps into workflow diagram (include tools for each step) an
 . Pull down the reads
 .Download raw reads of RNA-seq and miRNA-seq from NCBI GEO database
 .Quality control (fastQC & Fastp & MultiQC)
-.Trimming of adaptor sequences (Trimmomatic)
+.Trimming of adaptor sequences (fastp)
 .Alignment of sequences to Rice reference genome (HISAT2)
 .miRNA mapping (miRDeep2)
 .Normalization methods (quantile normalization miRNA-seq, and TMM RNA-seq) 
